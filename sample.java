@@ -1,6 +1,6 @@
-public class sample
+public class Sample
 {
-	public static void main(strings args[])
+	public static void main(Strings args[])
 	{
 		system.out.print("Nalla Ramya");
 	}
